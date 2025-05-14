@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #7dabc4;
+  padding: 20px;
+  text-align: center;
+}
+
+.form-container {
+  margin-bottom: 30px;
+}
+
+input {
+  display: block;
+  margin: 10px auto;
+  padding: 8px;
+  width: 80%;
+  max-width: 300px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #d182c9;
+  color: rgb(136, 39, 39);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.marksheet {
+  width: 300px;
+  margin: 0 auto;
+  background-color: rgb(210, 229, 180);
+  padding: 20px;
+  border: 2px solid #333;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  text-align: left;
+}
